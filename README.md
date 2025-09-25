@@ -1,6 +1,6 @@
 #  Bem-vindo ao meu universo tech! 
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" align="right">
+<img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="550" align="right">
 
 ## 👋 Olá, eu sou Marcel Monteiro.
 
@@ -44,5 +44,3 @@
 ## 🎉 Curiosidade divertida
 
 > "Assim como um quebra-cabeça, cada linha de código é uma peça que constrói algo maior." 
-
-<img src="https://media.giphy.com/media/l0HlyqMvHBycWw53i/giphy.gif" width="300">
