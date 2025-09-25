@@ -1,16 +1,48 @@
-## Hi there 👋
+# 🍬 Bem-vindo ao meu universo tech! 
 
-<!--
-**MBR4V0/mbr4v0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" align="right">
 
-Here are some ideas to get you started:
+## 👋 Olá, eu sou Marcel Monteiro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Bacharel em Engenharia Civil** – Universidade Anhembi Morumbi  
+🛡️ **Experiência em Segurança da Informação** – FATEC São Caetano do Sul  
+📊 **Acadêmico em Ciência de Dados para Negócios** – FATEC Votorantim  
+🐧 **Apaixonado por distribuições Linux**  
+📈 **Entusiasta em Data Science**
+
+---
+
+## 🍭 Skills & Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+
+---
+
+##  Um pouco sobre mim
+
+✨ Acredito que **conhecimento é como um jogo**: cada fase vencida abre novas possibilidades.  
+💡 Minha missão é unir **engenharia, segurança e ciência de dados** para gerar impacto positivo.  
+
+---
+
+## 📫 Contatos
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MBR4V0)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](m.balduino@icloud.com)  
+
+---
+
+## 🎉 Curiosidade divertida
+
+> "Assim como um quebra-cabeça, cada linha de código é uma peça que constrói algo maior." 
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300">
