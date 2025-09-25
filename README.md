@@ -1,52 +1,48 @@
-# ⚡ TRON MODE: ACTIVATED ⚡
+#  Bem-vindo ao meu universo tech! 
 
-<img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="300" align="right">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" align="right">
 
-## 👋 Olá, eu sou [Seu Nome]
+## 👋 Olá, eu sou Marcel Monteiro.
 
 🎓 **Bacharel em Engenharia Civil** – Universidade Anhembi Morumbi  
 🛡️ **Experiência em Segurança da Informação** – FATEC São Caetano do Sul  
 📊 **Acadêmico em Ciência de Dados para Negócios** – FATEC Votorantim  
 🐧 **Apaixonado por distribuições Linux**  
-💡 **Entusiasta em Data Science**
+📈 **Entusiasta em Data Science**
 
 ---
 
-## 🌐 Skills & Tecnologias
+## 🍭 Skills & Tecnologias
 
-![Python](https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black)  
-![R](https://img.shields.io/badge/R-00CED1?style=for-the-badge&logo=r&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-1E90FF?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-39FF14?style=for-the-badge&logo=linux&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-00BFFF?style=for-the-badge&logo=docker&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFFF)  
-![Power BI](https://img.shields.io/badge/Power%20BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF4500?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-00FFFF?style=for-the-badge&logo=pandas&logoColor=black)  
-![Numpy](https://img.shields.io/badge/Numpy-7DF9FF?style=for-the-badge&logo=numpy&logoColor=black)  
-
----
-
-## ⚡ Filosofia
-
-> “A Grid é um mundo digital, mas também é um reflexo de quem a constrói.”  
-
-✨ Acredito que **dados são a energia da nova era**.  
-🔷 Minha missão é unir **engenharia, segurança e ciência de dados** para criar soluções que brilham no escuro.  
-💠 Assim como no **TRON**, cada linha de código é um traço de luz no universo digital.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 
 ---
 
-## 🔗 Conexões
+##  Um pouco sobre mim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/seuusuario)  
-[![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)  
+✨ Acredito que **conhecimento é como um jogo**: cada fase vencida abre novas possibilidades.  
+💡 Minha missão é unir **engenharia, segurança e ciência de dados** para gerar impacto positivo.  
 
 ---
 
-## 🎇 Curiosidade
+## 📫 Contatos
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MBR4V0)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](m.balduino@icloud.com)  
 
-> “No Grid, não existem limites. Apenas possibilidades.” ⚡
+---
+
+## 🎉 Curiosidade divertida
+
+> "Assim como um quebra-cabeça, cada linha de código é uma peça que constrói algo maior." 
+
+<img src="https://media.giphy.com/media/l0HlyqMvHBycWw53i/giphy.gif" width="300">
