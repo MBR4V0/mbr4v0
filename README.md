@@ -1,4 +1,4 @@
-# 🍬 Bem-vindo ao meu universo tech! 
+#  Bem-vindo ao meu universo tech! 
 
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" align="right">
 
