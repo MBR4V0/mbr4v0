@@ -12,7 +12,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbr4v0&theme=highcontrast_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbr4v0&show_icons=true&theme=ambient_gradient)
 
 ## 🍭 Skills & Tecnologias
 
