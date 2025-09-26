@@ -2,7 +2,7 @@
 
 ---
 
-## 👋 Olá, eu sou Marcel Monteiro 🤖.
+## 👋 Olá, eu sou Marcel Monteiro 🤖
 
 🎓 **Bacharel em Engenharia Civil** – Universidade Anhembi Morumbi  
 🛡️ **Experiência em Segurança da Informação** – FATEC São Caetano do Sul  
