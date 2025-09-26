@@ -1,7 +1,7 @@
 #  Bem-vindo ao meu universo tech! 
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mbr4v0=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbr4v0&show_icons=true&theme=transparent)
 
 ## 👋 Olá, eu sou Marcel Monteiro.
 
