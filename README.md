@@ -1,4 +1,4 @@
-#  Bem-vindo ao meu universo tech! 
+#  Welcome to my tech universe!! 
 
 ---
 
