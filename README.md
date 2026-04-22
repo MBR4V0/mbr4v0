@@ -19,9 +19,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbr4v0&layout=compact&theme=tokyonight&hide_langs_below=1" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbr4v0&show_icons=true&theme=tokyonight)
 
-## 🍭 Skills & Tecnologias
+##  Skills & Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
