@@ -4,7 +4,7 @@
 
 ## 👋 Olá, eu sou Marcel Monteiro 🤖
 
-🎓 **Bacharel em Engenharia Civil** – Universidade Anhembi Morumbi  
+🎓 **Engenheiro Civil** – Universidade Anhembi Morumbi  
 🛡️ **Experiência em Segurança da Informação** – FATEC São Caetano do Sul  
 📊 **Acadêmico em Ciência de Dados para Negócios** – FATEC Votorantim  
 🐧 **Apaixonado por distribuições Linux**  
