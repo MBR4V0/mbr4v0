@@ -7,7 +7,6 @@
 🎓 Civil Engineer – Anhembi Morumbi University
 🛡️ Background in Information Security – FATEC São Caetano do Sul
 📊 Data Science for Business Student – FATEC Votorantim
-
 💻 Passionate about Linux environments
 📈 Focused on Data Science, Analytics, and Real-World Problem Solving
 
