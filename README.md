@@ -1,46 +1,54 @@
-#  Welcome to my tech universe!! 
+# 🚀 Welcome to My Tech Universe
 
 ---
 
-## 👋 Olá, eu sou Marcel Monteiro 🤖
+## 👋 Hi, I'm Marcel Monteiro
 
-🎓 **Engenheiro Civil** – Universidade Anhembi Morumbi  
-🛡️ **Experiência em Segurança da Informação** – FATEC São Caetano do Sul  
-📊 **Acadêmico em Ciência de Dados para Negócios** – FATEC Votorantim  
-🐧 **Apaixonado por distribuições Linux**  
-📈 **Entusiasta em Data Science**
+🎓 Civil Engineer – Anhembi Morumbi University
+🛡️ Background in Information Security – FATEC São Caetano do Sul
+📊 Data Science for Business Student – FATEC Votorantim
+
+💻 Passionate about Linux environments
+📈 Focused on Data Science, Analytics, and Real-World Problem Solving
 
 ---
-## 📊 Minhas Estatísticas
+
+## 📊 GitHub Stats
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mbr4v0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbr4v0&layout=compact&theme=tokyonight&hide_langs_below=1" />
 </p>
 
+---
 
-##  Skills & Tecnologias
+## 🛠️ Skills & Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+* **Languages:** Python, R, SQL
+* **Data Analysis:** Pandas, NumPy
+* **Data Visualization:** Power BI
+* **Tools & Systems:** Linux, Git, GitHub
 
 ---
 
-##  Um pouco sobre mim
+## 📌 About Me
 
-✨ Acredito que **conhecimento é como um jogo**: cada fase vencida abre novas possibilidades.  
-💡 Minha missão é unir **engenharia, segurança e ciência de dados** para gerar impacto positivo.  
+I believe that **learning is like a game** — each level unlocked brings new challenges and opportunities.
+
+My goal is to combine **engineering, information security, and data science** to build solutions that create real impact.
 
 ---
 
-## 📫 Contatos
+## 🚀 What I'm Currently Working On
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MBR4V0)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](m.balduino@icloud.com)  
+* Improving my Data Science portfolio
+* Building real-world data projects
+* Exploring Machine Learning applications
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/MBR4V0
+* Email: [m.balduino@icloud.com](mailto:m.balduino@icloud.com)
