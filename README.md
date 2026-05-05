@@ -4,23 +4,18 @@
 
 ## 👋 Hi, I'm Marcel Monteiro
 
-🎓 Civil Engineer – Anhembi Morumbi University
-🛡️ Background in Information Security – FATEC São Caetano do Sul
-📊 Data Science for Business Student – FATEC Votorantim
-💻 Passionate about Linux environments
-📈 Focused on Data Science, Analytics, and Real-World Problem Solving
+* 🎓 **Civil Engineer** – Anhembi Morumbi University
+* 🛡️ **Background in Information Security** – FATEC São Caetano do Sul
+* 📊 **Data Science for Business Student** – FATEC Votorantim
+* 💻 **Passionate about Linux environments**
+* 📈 **Focused on Data Science, Analytics, and Real-World Problem Solving**
 
 ---
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mbr4v0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbr4v0&layout=compact&theme=tokyonight&hide_langs_below=1" />
-</p>
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbr4v0&layout=compact&theme=tokyonight&hide_langs_below=1" />
 </p>
 
@@ -53,5 +48,5 @@ My goal is to combine **engineering, information security, and data science** to
 
 ## 📫 Contact
 
-* GitHub: https://github.com/MBR4V0
-* Email: [m.balduino@icloud.com](mailto:m.balduino@icloud.com)
+* **GitHub:** [github.com/MBR4V0](https://github.com/MBR4V0)
+* **Email:** [m.balduino@icloud.com](mailto:m.balduino@icloud.com)
