@@ -15,9 +15,12 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mbr4v0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbr4v0&layout=compact&theme=tokyonight&hide_langs_below=1" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mbr4v0&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mbr4v0&layout=compact&theme=tokyonight&hide_langs_below=1" />
 </p>
+
+> [!TIP]
+> Se as imagens acima ainda não aparecerem, pode ser um atraso no cache do GitHub. Tente atualizar a página após alguns minutos.
 
 ---
 
