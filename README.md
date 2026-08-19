@@ -9,13 +9,11 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/mbr4v0">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mbr4v0&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/mbr4v0">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbr4v0&layout=compact&theme=tokyonight&langs_count=8" />
-  </a>
+  <img src="./github-stats.svg" height="180" />
+  <img src="./top-languages.svg" height="180" />
 </p>
 
 🛠️ Skills & Technologies
