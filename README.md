@@ -1,53 +1,96 @@
-# 🚀 Welcome to My Tech Universe
+🚀 Welcome to My Tech Universe
+👋 Hi, I'm Marcel Monteiro
 
----
+🎓 Civil Engineer – Anhembi Morumbi University
+🛡️ Background in Information Security – FATEC São Caetano do Sul
+📊 Data Science for Business Student – FATEC Votorantim
+💻 Passionate about Linux and open-source environments
+📈 Focused on Data Science, Analytics, Machine Learning, and Business Intelligence
 
-## 👋 Hi, I'm Marcel Monteiro
+📊 GitHub Stats
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mbr4v0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbr4v0&layout=compact&theme=tokyonight&langs_count=8" /> </p>
+🛠️ Skills & Technologies
+🐍 Programming & Data Analysis
+Python
+SQL & NoSQL
+Pandas
+NumPy
+Polars
+Jupyter
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Data Transformation
+Statistical Analysis
+Statistical Inference
+🤖 Machine Learning & AI
+Machine Learning
+Scikit-learn
+XGBoost
+Supervised & Unsupervised Learning
+Feature Engineering
+Model Evaluation
+Predictive Modeling
+Statistical Modeling
+Deep Learning
+✨ Generative AI
+Large Language Models (LLMs)
+Foundation Models
+Prompt Engineering
+Retrieval-Augmented Generation (RAG)
+Embeddings
+Vector Search
+AI Agents
+Tool Calling
+LLM Application Development
+LLM Evaluation
+☁️ Data Engineering & Cloud
+Data Pipelines
+ETL / ELT
+Data Warehousing
+Data Modeling
+Data Quality
+BigQuery
+PostgreSQL
+Google Cloud Platform
+Dataflow
+Vertex AI
+Cloud Storage
+📊 Business Intelligence
+Power BI
+Data Visualization
+Business Analytics
+Data-Driven Decision Making
+🐧 Tools & Systems
+Linux
+Git
+GitHub
+Jupyter
+📌 About Me
 
-* 🎓 **Civil Engineer** – Anhembi Morumbi University
-* 🛡️ **Background in Information Security** – FATEC São Caetano do Sul
-* 📊 **Data Science for Business Student** – FATEC Votorantim
-* 💻 **Passionate about Linux environments**
-* 📈 **Focused on Data Science, Analytics, and Real-World Problem Solving**
+I believe that learning is like a game — every level unlocked brings new challenges, skills, and opportunities.
 
----
+My goal is to combine my background in Civil Engineering, Information Security, and Data Science to transform data into actionable insights and build solutions that create real business impact.
 
-## 📊 GitHub Stats
+I'm particularly interested in the intersection of:
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mbr4v0&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mbr4v0&layout=compact&theme=tokyonight&hide_langs_below=1" />
-</p>
+Data → Analytics → Machine Learning → Business Intelligence → Decision Making
 
+🚀 What I'm Currently Working On
+📊 Building my Data Science portfolio
+🧠 Developing Machine Learning projects
+📈 Exploring Business Intelligence and Analytics
+☁️ Learning Google Cloud technologies
+🤖 Exploring Generative AI and LLM applications
+🐍 Improving my Python and SQL skills
+📚 Applying statistical methods to real-world problems
+🎯 Career Focus
 
----
+Data Science for Business
 
-## 🛠️ Skills & Technologies
+I'm interested in using data, statistics, machine learning, and modern AI technologies to solve real-world business problems and support better decision-making.
 
-* **Languages:** Python, R, SQL
-* **Data Analysis:** Pandas, NumPy
-* **Data Visualization:** Power BI
-* **Tools & Systems:** Linux, Git, GitHub
+📫 Contact
+GitHub: github.com/MBR4V0
+Email: m.balduino@icloud.com
 
----
-
-## 📌 About Me
-
-I believe that **learning is like a game** — each level unlocked brings new challenges and opportunities.
-
-My goal is to combine **engineering, information security, and data science** to build solutions that create real impact.
-
----
-
-## 🚀 What I'm Currently Working On
-
-* Improving my Data Science portfolio
-* Building real-world data projects
-* Exploring Machine Learning applications
-
----
-
-## 📫 Contact
-
-* **GitHub:** [github.com/MBR4V0](https://github.com/MBR4V0)
-* **Email:** [m.balduino@icloud.com](mailto:m.balduino@icloud.com)
+⭐ Always learning. Always building. Always improving.
