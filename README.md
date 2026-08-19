@@ -7,15 +7,6 @@
 💻 Passionate about Linux and open-source environments
 📈 Focused on Data Science, Analytics, Machine Learning, and Business Intelligence
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./github-stats.svg" height="180" />
-  <img src="./top-languages.svg" height="180" />
-</p>
-
 🛠️ Skills & Technologies
 🐍 Programming & Data Analysis
 Python
