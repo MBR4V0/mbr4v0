@@ -22,16 +22,6 @@ I believe that learning is like a game — every level unlocked brings new chall
 
 My goal is to combine my background in Civil Engineering, Information Security and Data Science to transform data into actionable insights and build solutions that create real business impact.
 
-📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/MBR4V0"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=MBR4V0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics"/> </a>
-
-<a href="https://github.com/MBR4V0"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBR4V0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/> </a>
-
-</div>
-
 🛠️ Skills & Technologies
 🐍 Programming & Data Analysis
 
