@@ -40,6 +40,8 @@
 
 📊 **Data Science for Business Student** — FATEC Votorantim
 
+🧬 **CNPq Undergraduate Research Scholar**
+
 🐧 Passionate about Linux and open-source environments
 
 📈 Focused on Data Science, Analytics, Machine Learning and Business Intelligence
