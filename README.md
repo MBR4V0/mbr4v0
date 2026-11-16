@@ -1,49 +1,39 @@
-```markdown
-<div align="center">
+ <div align="center">
 
-<!-- COSMIC HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B16,45:172554,100:7137A8&text=THE%20UNIVERSE%20WITHIN&fontColor=A5D8FF&fontSize=38&fontAlignY=38&desc=Science%20%E2%80%A2%20Technology%20%E2%80%A2%20Intelligence%20%E2%80%A2%20Discovery&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B16,50:172554,100:7137A8&text=THE%20UNIVERSE%20WITHIN&fontColor=A5D8FF&fontSize=38&fontAlignY=40&desc=SCIENCE%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20DISCOVERY&descAlignY=60&descSize=14" width="100%"/>
 
 # 👋 Hi, I'm Marcel Monteiro
 
-### 🚀 Data Science • Analytics • Machine Learning • Business Intelligence
+### Data Science • Analytics • Machine Learning • Business Intelligence
 
 <br/>
 
-<p>
-  <em>
-    "Sou uma organização de matéria temporária e extraordinariamente complexa,
-    por meio da qual o universo se tornou capaz de contemplar a si mesmo."
-  </em>
-</p>
+### ✦ A COSMIC PERSPECTIVE ✦
+
+*“Sou uma organização de matéria temporária e extraordinariamente complexa, por meio da qual o universo se tornou capaz de contemplar a si mesmo.”*
 
 **We are the universe observing itself.**
 
 <br/>
 
-<a href="https://github.com/MBR4V0">
-<img src="https://img.shields.io/badge/GitHub-MBR4V0-172554?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:m.balduino@icloud.com">
-<img src="https://img.shields.io/badge/Email-Contact-7137A8?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/MBR4V0"><img src="https://img.shields.io/badge/GitHub-MBR4V0-172554?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:m.balduino@icloud.com"><img src="https://img.shields.io/badge/Email-Contact-7137A8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## 🌌 ABOUT ME
+## 🌌 About Me
 
 🎓 **Civil Engineer** — Anhembi Morumbi University
 
-🛡️ **Background in Information Security** — FATEC São Caetano do Sul
+🛡️ **Information Security Background** — FATEC São Caetano do Sul
 
 📊 **Data Science for Business Student** — FATEC Votorantim
 
 🐧 Passionate about Linux and open-source environments
 
-📈 Focused on Data Science, Analytics, Machine Learning and Business Intelligence
+📈 Focused on Data Science, Analytics, Machine Learning and Business Intelligence.
 
 I believe that learning is like a game — every level unlocked brings new challenges, skills and opportunities.
 
@@ -51,7 +41,7 @@ My goal is to combine my background in Civil Engineering, Information Security a
 
 ---
 
-## 🪐 SKILLS & TECHNOLOGIES
+## 🪐 Skills & Technologies
 
 ### 🐍 Programming & Data Analysis
 
@@ -91,10 +81,8 @@ My goal is to combine my background in Civil Engineering, Information Security a
 - Foundation Models
 - Prompt Engineering
 - Retrieval-Augmented Generation (RAG)
-- Embeddings
-- Vector Search
-- AI Agents
-- Tool Calling
+- Embeddings and Vector Search
+- AI Agents and Tool Calling
 - LLM Application Development
 - LLM Evaluation
 
@@ -111,8 +99,7 @@ My goal is to combine my background in Civil Engineering, Information Security a
 - Data Warehousing
 - Data Modeling
 - Data Quality
-- BigQuery
-- PostgreSQL
+- BigQuery and PostgreSQL
 - Google Cloud Platform
 - Dataflow
 - Vertex AI
@@ -140,9 +127,7 @@ My goal is to combine my background in Civil Engineering, Information Security a
 
 ---
 
-## 🚀 CURRENT FOCUS
-
-Exploring new possibilities at the intersection of science, data and technology.
+## 🚀 Current Focus
 
 - 📊 Building my Data Science portfolio
 - 🧠 Developing Machine Learning projects
@@ -153,7 +138,9 @@ Exploring new possibilities at the intersection of science, data and technology.
 - 📚 Applying statistical methods to real-world problems
 - 🔬 Exploring computational biology and scientific research
 
-### 🌠 THE DATA JOURNEY
+---
+
+## 🌠 The Data Journey
 
 <div align="center">
 
@@ -177,7 +164,7 @@ I am particularly interested in using data, statistics, machine learning and mod
 
 ---
 
-## 🎯 CAREER FOCUS
+## 🎯 Career Focus
 
 ### Data Science for Business
 
@@ -194,7 +181,7 @@ I am particularly interested in transforming raw data into insights, predictive 
 
 ---
 
-## 📚 CURRENTLY LEARNING
+## 📚 Currently Learning
 
 - Data Science
 - Statistics
@@ -208,7 +195,7 @@ I am particularly interested in transforming raw data into insights, predictive 
 
 ---
 
-## 🛰️ FEATURED PROJECTS
+## 🛰️ Featured Projects
 
 <div align="center">
 
@@ -216,16 +203,14 @@ I am particularly interested in transforming raw data into insights, predictive 
 
 </div>
 
-<!-- Replace these placeholders with your actual repository links -->
-
-- 🔭 **Data Science Projects** — Exploratory analysis, statistics and predictive modeling
-- 🤖 **Machine Learning** — Classification, regression and model evaluation
-- 🧬 **Computational Biology** — Scientific data analysis and gene expression research
-- 📊 **Business Intelligence** — Analytics, dashboards and data visualization
+- 🔭 **Data Science Projects** — Exploratory analysis, statistics and predictive modeling.
+- 🤖 **Machine Learning** — Classification, regression and model evaluation.
+- 🧬 **Computational Biology** — Scientific data analysis and gene expression research.
+- 📊 **Business Intelligence** — Analytics, dashboards and data visualization.
 
 ---
 
-## 📈 GITHUB UNIVERSE
+## 📈 GitHub Universe
 
 <div align="center">
 
@@ -233,7 +218,7 @@ I am particularly interested in transforming raw data into insights, predictive 
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBR4V0&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=A5D8FF&text_color=C9D1D9"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=MBR4V0&theme=tokyonight&hide_border=true&background=080B16&ring=7137A8&fire=A5D8FF&currStreakLabel=A5D8FF" width="65%"/>
 
@@ -241,21 +226,17 @@ I am particularly interested in transforming raw data into insights, predictive 
 
 ---
 
-## 📫 CONTACT
+## 📫 Contact
 
 <div align="center">
 
-<a href="https://github.com/MBR4V0">
-<img src="https://img.shields.io/badge/GitHub-MBR4V0-172554?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/MBR4V0"><img src="https://img.shields.io/badge/GitHub-MBR4V0-172554?style=for-the-badge&logo=github"/></a>
 
-<a href="mailto:m.balduino@icloud.com">
-<img src="https://img.shields.io/badge/Email-m.balduino%40icloud.com-7137A8?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:m.balduino@icloud.com"><img src="https://img.shields.io/badge/Email-m.balduino%40icloud.com-7137A8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7137A8,50:172554,100:080B16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7137A8,50:172554,100:080B16" width="100%"/>
 
 ### ✦ BEYOND THE KNOWN ✦
 
@@ -264,4 +245,3 @@ I am particularly interested in transforming raw data into insights, predictive 
 *Somewhere in the universe, matter is learning.*
 
 </div>
-```
